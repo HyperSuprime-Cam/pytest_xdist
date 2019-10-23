@@ -1,5 +1,4 @@
 setupRequired(python)
-setupRequired(pytest)
 setupRequired(pytest_forked)
 setupRequired(python_execnet)
 envPrepend(PYTHONPATH, ${PRODUCT_DIR}/lib/python)
